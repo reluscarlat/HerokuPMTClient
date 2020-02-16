@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://pm-tool-app.herokuapp.com",
+  "proxy": "https://agileintelligencecourse.herokuapp.com/",
   "eslintConfig": {
     "extends": "react-app"
   },
